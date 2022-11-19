@@ -58,3 +58,18 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/LeapProjectorHDRP/Library
+/LeapProjectorHDRP/Logs
+/LeapProjectorHDRP/obj
+/LeapProjectorHDRP/.vsconfig
+/LeapProjectorHDRP/Assembly-CSharp.csproj
+/LeapProjectorHDRP/Assembly-CSharp-Editor.csproj
+/LeapProjectorHDRP/LeapMotion.LeapCSharp.csproj
+/LeapProjectorHDRP/LeapProjectorHDRP.sln
+/LeapProjectorHDRP/Ultraleap.Tracking.Core.csproj
+/LeapProjectorHDRP/Ultraleap.Tracking.Core.Editor.csproj
+/LeapProjectorHDRP/Ultraleap.Tracking.Core.Editor.Tests.csproj
+/LeapProjectorHDRP/Ultraleap.Tracking.Hands.csproj
+/LeapProjectorHDRP/Ultraleap.Tracking.Hands.Editor.csproj
+/LeapProjectorHDRP/Ultraleap.Tracking.InteractionEngine.csproj
+/LeapProjectorHDRP/Ultraleap.Tracking.InteractionEngine.Editor.csproj
